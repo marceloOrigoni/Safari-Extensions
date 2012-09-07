@@ -1,4 +1,0 @@
-Edit
-====
-
-Edit is a Safari Extension that marks the active page as editable.
